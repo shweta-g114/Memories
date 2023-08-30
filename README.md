@@ -11,10 +11,10 @@ React: FrontEnd Developement
 NodeJS: For BackEnd developement
 
 Preview :
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)![image](https://github.com/shweta-g114/Memories/assets/78975172/2d774b25-b97a-4413-91e4-e7cea2761215)
+![Memories]
+(https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)![image](https://github.com/shweta-g114/Memories/assets/78975172/2d774b25-b97a-4413-91e4-e7cea2761215)
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
-![image](https://github.com/shweta-g114/Memories/assets/78975172/b4a9dec9-7955-4ca3-adc2-6e3b1508c1ab)
 
 Thank you, everyone! 💚
