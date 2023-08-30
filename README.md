@@ -9,4 +9,3 @@
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
-![image](https://github.com/shweta-g114/Memories/assets/78975172/630e982e-2bdf-4ddf-892c-76b54a720b8b)
